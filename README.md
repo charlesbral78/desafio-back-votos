@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Descrição da implementação
 Foi utilizado as separações dos domínios de Associados, Pauta, Sessão e Votos. Assim, poderá trabalhar independentemente.
 
@@ -24,6 +25,8 @@ Documentação do swagger http://localhost:8081/swagger-ui/index.html
 
 Recomendo utilizar o Postman ou Insomia para consumo de API.
 
+=======
+>>>>>>> origin/master
 # Desafio Técnico
 ## Objetivo
 No cooperativismo, cada associado possui um voto e as decisões são tomadas em assembleias, por votação. A partir disso, você precisa criar uma solução back-end para gerenciar essas sessões de votação. Essa solução deve ser executada na nuvem e promover as seguintes funcionalidades através de uma API REST:
